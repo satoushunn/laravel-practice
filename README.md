@@ -72,6 +72,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - [インストール 10.x Laravel](https://readouble.com/laravel/10.x/ja/installation.html)
 
 ## sailコマンドのシステムエイリアス設定
+
 以下のサイトを参考にsailコマンドのシステムエイリアス設定をしている。
 - [シェルエイリアスの設定](https://readouble.com/laravel/10.x/ja/sail.html)
 
