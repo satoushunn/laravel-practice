@@ -77,4 +77,3 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 実行したコマンドは以下。
 `alias sail='[ -f sail ] && sh sail || sh vendor/bin/sail'`
-　
